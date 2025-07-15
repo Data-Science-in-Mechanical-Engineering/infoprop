@@ -1,5 +1,5 @@
 # infoprop submission code
-This project has the submission code for the paper "On Rollouts in Model-Based Reinforcement Learning". This project is an adapted version of [MBRL-Lib](https://github.com/facebookresearch/mbrl-lib) by facebook research. Only Infoprop Dyna is implemented here. To run the other algorithms used for comparison, use [MACURA](https://github.com/Data-Science-in-Mechanical-Engineering/macura). 
+This project has the submission code for the paper "On Rollouts in Model-Based Reinforcement Learning" [arxiv](https://arxiv.org/abs/2501.16918). This project is an adapted version of [MBRL-Lib](https://github.com/facebookresearch/mbrl-lib) by facebook research. Only Infoprop Dyna is implemented here. To run the other algorithms used for comparison, use [MACURA](https://github.com/Data-Science-in-Mechanical-Engineering/macura). 
 ## Installation Instructions
 First, change directory to where the project is located:
 ```bash
