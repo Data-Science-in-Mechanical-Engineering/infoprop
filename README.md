@@ -30,3 +30,7 @@ By default, the experiments are logged in csv files within the exp folder. For a
 python -m mbrl.examples.main wandb_log=True wandb_project=Infoprop experiment=wandb_trial_run 
 ```
 This will log the current experiment in the project "Infoprop" with the name "wandb_trial_run".
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
